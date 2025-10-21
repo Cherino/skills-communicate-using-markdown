@@ -18,3 +18,7 @@ bla lab bla
 ``` python
 print("hello wolrd")
 ```
+
+- [x] make a list
+- [ ] make it well
+- [ ] woah it's kinda automated
