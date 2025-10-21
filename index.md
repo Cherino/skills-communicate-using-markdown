@@ -12,3 +12,5 @@ bla bla bla
 
 ##### 2
 bla lab bla
+
+![image of something](https://translate.how/i/something.webp)
