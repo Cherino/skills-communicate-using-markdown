@@ -14,3 +14,7 @@ bla bla bla
 bla lab bla
 
 ![image of something](https://translate.how/i/something.webp)
+
+``` python
+print("hello wolrd")
+```
